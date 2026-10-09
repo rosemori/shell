@@ -34,7 +34,7 @@ unzip -q rawdata.zip
     mv rawdata data/raw
 # 3. List the contents of the ./data/raw directory
     cd data/raw
-    ls 
+    ls data/raw
 # 4. Create the directory ./data/processed, 
 #    then create the following sub-directories within it: server_logs, user_logs, and event_logs
     cd shell
